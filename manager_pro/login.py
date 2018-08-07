@@ -1,1 +1,2 @@
 a = manager
+name=manager
