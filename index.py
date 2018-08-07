@@ -9,7 +9,7 @@ app.config.from_object(Config)
 
 @app.route('/index')
 def index():
-    return "index"
+    return "index hello"
 
 def main():
     app.run()
